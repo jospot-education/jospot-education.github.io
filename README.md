@@ -62,12 +62,6 @@ info.jospot at gmail.com
 
 メンバー募集
 
-# hello
-## josupot
-### hi
-あいうえお(テストで書いてみました)
-
-
 
 
 
